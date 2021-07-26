@@ -1,0 +1,10 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "fullName":"Deepak",
+    "Mobile": "7015001379",
+    "email": "dtewatia65gmail.com",
+    "password":"Deepak",
+    "Confirmpassword":"Deepak"
+}
